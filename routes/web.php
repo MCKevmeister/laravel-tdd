@@ -3,7 +3,6 @@
 use App\Http\Controllers\ProjectsController;
 use App\Models\Project;
 use Illuminate\Support\Facades\Route;
-use const App\Http\Controllers\ProjectsController;
 
 /*
 |--------------------------------------------------------------------------
